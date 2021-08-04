@@ -22,3 +22,4 @@ for i in names:
                     info[j] += info[i]
                     print(f"{i} should give {j}: {abs(info[i])} UAH")
                     info[i] = 0
+print("bye-bye have a nice day")
